@@ -1,0 +1,13 @@
+{
+    "info": {
+        "name": "30440r's Repo",
+        "maintainer": "30440r"
+    },
+    "themes": [
+        {
+            "name": "34reme",
+            "author": "30440r",
+            "url": "http://example.com/themes/theme_name.zip"
+        }
+    ]
+}
